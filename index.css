@@ -425,3 +425,15 @@ header {
     flex: 1;
   }
 }
+
+.btn-download button {
+  margin-top: 2rem;
+  padding: 1rem 2rem;
+  border: 0;
+  color: #fff;
+  background-color: #2a7ae4 !important;
+}
+
+.btn-download button:hover {
+  background-color: #87ceeb;
+}
